@@ -1,0 +1,24 @@
+PODS:
+  - IQKeyboardManager (6.5.13)
+  - Kingfisher (7.9.1)
+  - SwiftyJSON (4.3.0)
+
+DEPENDENCIES:
+  - IQKeyboardManager
+  - Kingfisher
+  - SwiftyJSON (~> 4.0)
+
+SPEC REPOS:
+  trunk:
+    - IQKeyboardManager
+    - Kingfisher
+    - SwiftyJSON
+
+SPEC CHECKSUMS:
+  IQKeyboardManager: a932e53c5175755c60a3e2ad31a9f3aa5e33dd89
+  Kingfisher: 1d14e9f59cbe19389f591c929000332bf70efd32
+  SwiftyJSON: 6faa0040f8b59dead0ee07436cbf76b73c08fd08
+
+PODFILE CHECKSUM: 6e016762986df810bf3e00fc7c26d77bec94d4c4
+
+COCOAPODS: 1.12.1
